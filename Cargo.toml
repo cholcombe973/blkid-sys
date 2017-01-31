@@ -5,6 +5,7 @@ authors = ["Chris Holcombe <xfactor973@gmail.com>"]
 description = "libblkid raw sys bindings"
 license = "MIT"
 documentation = "https://docs.rs/blkid-sys"
+repository = "https://github.com/cholcombe973/blkid-sys"
 build = "build/build.rs"
 
 [build-dependencies]
