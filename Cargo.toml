@@ -1,6 +1,6 @@
 [package]
 name = "blkid-sys"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Chris Holcombe <xfactor973@gmail.com>"]
 description = "libblkid raw sys bindings"
 license = "MIT"
@@ -10,4 +10,4 @@ build = "build/build.rs"
 categories = ["external-ffi-bindings"]
 
 [build-dependencies]
-bindgen = "^0.20"
+bindgen = "0.26.3"
