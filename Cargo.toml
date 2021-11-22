@@ -1,6 +1,6 @@
 [package]
 name = "blkid-sys"
-version = "0.1.5"
+version = "0.1.6"
 authors = ["Chris Holcombe <xfactor973@gmail.com>"]
 description = "libblkid raw sys bindings"
 license = "MIT"
