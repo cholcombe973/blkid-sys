@@ -10,4 +10,4 @@ build = "build.rs"
 categories = ["external-ffi-bindings"]
 
 [build-dependencies]
-bindgen = "~0.53"
+bindgen = "~0.58"
