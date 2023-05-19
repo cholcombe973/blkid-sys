@@ -8,7 +8,7 @@ fn main() {
 
     let bindings = bindgen::Builder::default()
         .header("wrapper.h")
-        .rustfmt_bindings(false)
+        .formatter(bindgen::Formatter::None)
         .generate()
         .expect("Unable to generate bindings");
 
